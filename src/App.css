@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chartBox {
+    width: 80vw;
+    max-width: 700px;
+    margin: 50px;
 }
 
 .App-logo {
